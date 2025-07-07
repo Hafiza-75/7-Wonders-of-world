@@ -11,3 +11,4 @@ A simple HTML project showcasing the **New Seven Wonders of the World**, selecte
   - Suggestions text area
 - Clean structure with beginner-friendly HTML.
 ##  Preview:
+![image](https://github.com/user-attachments/assets/6a6e1b42-0945-43b7-b29c-fa0c707c9dff)
